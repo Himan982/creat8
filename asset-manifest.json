@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creat8/static/css/main.cabd8f7c.css",
+    "main.js": "/creat8/static/js/main.4251eb86.js",
+    "static/js/787.d580a859.chunk.js": "/creat8/static/js/787.d580a859.chunk.js",
+    "index.html": "/creat8/index.html",
+    "main.cabd8f7c.css.map": "/creat8/static/css/main.cabd8f7c.css.map",
+    "main.4251eb86.js.map": "/creat8/static/js/main.4251eb86.js.map",
+    "787.d580a859.chunk.js.map": "/creat8/static/js/787.d580a859.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cabd8f7c.css",
+    "static/js/main.4251eb86.js"
+  ]
+}
